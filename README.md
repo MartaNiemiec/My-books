@@ -1,4 +1,4 @@
-#  My books app with Redux
+#  My books app
 My own React app using Google Books API, made from scratch.
 
 ## :clipboard: Table of contents 
