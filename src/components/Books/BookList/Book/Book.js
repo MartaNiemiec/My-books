@@ -5,7 +5,7 @@ import Auxiliary from '../../../../hoc/Auxiliary/Auxiliary';
 import Ribbon from '../../../UI/Ribbon/Ribbon';
 
 const book = (props)  => {
- 
+
 
   
     let { book, isInReadBooks, toggleBookHandler, bookId, isInWishlist, isInFavourites, openModalHandler } = props;
